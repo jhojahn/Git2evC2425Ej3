@@ -3,6 +3,7 @@ package org.example;
 public class Empresa {
 	/*fichero original modificado*/
     public static void main(String[] args) {
+    	Departamento d1= new Departamento("fe");
         Empleado e1= new Empleado("Juan", 33, 25000.6 );
         System.out.println(e1);
         Departamento d1= new Departamento();
