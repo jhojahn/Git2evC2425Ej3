@@ -1,6 +1,7 @@
 package org.example;
 
 public class Empresa {
+	/*fichero original modificado*/
     public static void main(String[] args) {
         Empleado e1= new Empleado("Juan", 33, 25000.6 );
         System.out.println(e1);
